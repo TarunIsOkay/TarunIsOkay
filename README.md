@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tarunpreet singh
+# Hi 👋, I'm Tarunpreet Singh
 
 ### A passionate developer from around the world
 
