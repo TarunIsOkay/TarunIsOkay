@@ -1,3 +1,4 @@
+![logo](https://github.com/TarunIsOkay/TarunIsOkay/blob/main/Welcome%20to%20my%20profile.png)
 # Hi 👋, I'm Tarunpreet Singh
 
 ### A passionate developer from around the world
