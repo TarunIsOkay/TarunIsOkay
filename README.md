@@ -2,10 +2,6 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TarunIsOkay&label=Profile views&color=0e75b6&style=flat" alt="TarunIsOkay" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TarunIsOkay" alt="TarunIsOkay" /></a> </p>
-
 - 🔭 I'm currently working on **Website Development to be on par with newly styled websites**
 
 - 🌱 I'm currently learning **Full Coding to enhance more knowledge about development of the websites**
